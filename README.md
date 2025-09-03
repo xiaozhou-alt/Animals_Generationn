@@ -2,7 +2,7 @@
 
 <img src="./output/pic/cover.jpg" width="300" style="float: left; margin-right: 15px;" />
 
-[![DOI](https://img.shields.io/badge/DOI-10.57760/sciencedb.29221-blue.svg)](https://doi.org/10.57760/sciencedb.29221)[![Model](https://img.shields.io/badge/Model-LoRA-green.svg)](https://lora-alliance.org/)[![Model](https://img.shields.io/badge/Model-Stable Diffusion-green.svg)](https://stabilitycn.com/)[![DOI](https://img.shields.io/badge/License-MIT-yellow.svg)](https://www.mit.edu/)
+[![DOI](https://img.shields.io/badge/DOI-10.57760/sciencedb.29221-blue.svg)](https://doi.org/10.57760/sciencedb.29221)[![Model](https://img.shields.io/badge/Model-LoRA-green.svg)](https://lora-alliance.org/)[![Model](https://img.shields.io/badge/Model-Stable-Diffusion-green.svg)](https://stabilitycn.com/)[![DOI](https://img.shields.io/badge/License-MIT-yellow.svg)](https://www.mit.edu/)
 
 ---
 
